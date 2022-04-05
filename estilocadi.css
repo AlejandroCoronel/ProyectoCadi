@@ -50,4 +50,6 @@ nav ul li a{
 .holder{
     max-width: 960px;
     margin: auto;
+    text-align: center;
 }
+
